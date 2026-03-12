@@ -1,4 +1,4 @@
-# File Packer and Unpacker (Java)
+# Secure File Archiver (Java)
 
 ## Overview
 
