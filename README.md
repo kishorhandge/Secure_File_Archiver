@@ -19,7 +19,7 @@ Both **Command-Line** and **GUI (Java Swing)** versions are implemented.
 * Command-Line version
 * GUI version using Java Swing
 
----
+--
 
 ## Technologies Used
 
