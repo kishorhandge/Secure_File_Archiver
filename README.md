@@ -1,7 +1,7 @@
 # Secure File Archiver (Java)
 
 ## Overviewb
-
+ 
 This project is a **File Packer and Unpacker system developed in Java** that combines multiple `.txt` files into a single archive file and restores them back to their original form.
 
 The system stores **file metadata (name and size)** and uses **XOR encryption** to provide basic data security during packing and unpacking.
