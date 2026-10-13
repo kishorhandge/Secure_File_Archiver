@@ -8,7 +8,7 @@ The system stores **file metadata (name and size)** and uses **XOR encryption** 
 
 Both **Command-Line** and **GUI (Java Swing)** versions are implemented.
 
----
+--- 
  
 ## Features
 
